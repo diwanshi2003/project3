@@ -50,9 +50,6 @@ Validation: Ensures data integrity by validating user inputs before submission.
 Visual Appeal: Uses background images and responsive design to create an appealing layout.
 Utility Functions: Integrates external libraries for handling complex UI interactions like scrolling and content animation.
 
-## Conclusion
-
-This JavaScript code snippet not only ensures the proper functioning of a cake ordering form but also enhances the overall user experience through visual effects and interactive elements, making the webpage engaging and user-friendly.
 
 ##  output :
 In this output if any particular field is missed it gives the message that field not filled .
@@ -68,6 +65,11 @@ after poping thus message that form is valid .Subbmitting.... on pressing ok but
 # your cake order has been submitted successfully
 
 ![image](https://github.com/user-attachments/assets/63fe8393-6222-403f-86c2-2c2e668d800f)
+
+
+## Conclusion
+
+This JavaScript code snippet not only ensures the proper functioning of a cake ordering form but also enhances the overall user experience through visual effects and interactive elements, making the webpage engaging and user-friendly.
 
 
 
